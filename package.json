@@ -1,0 +1,29 @@
+{
+  "name": "authentication-system",
+  "version": "1.0.0",
+  "description": "This project will be used to authenticate user using token.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit-Programmer/Authentication-System.git"
+  },
+  "keywords": [
+    "Authentication",
+    "System",
+    "Passport",
+    "Login",
+    "System",
+    "Sign",
+    "Up",
+    "System"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-Programmer/Authentication-System/issues"
+  },
+  "homepage": "https://github.com/Ankit-Programmer/Authentication-System#readme"
+}
