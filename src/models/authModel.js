@@ -22,7 +22,7 @@ var conStatus = con.connect(function(err){
     }
     dbConStatus = false;
 });
-
+// This function is used for signup purpose.
 function insertUser(uname,pass){
     var sql = `INSERT INTO user (uname,pass) VALUES ('${uname}', '${pass}')`;
     con.query(sql,(err,result)=>{
